@@ -107,6 +107,24 @@ h3 {
     line-height: 1.6;
 }
 
+.info-card ul {
+    margin: 10px 0;
+    padding-left: 20px;
+    color: #666;
+}
+
+.info-card li {
+    margin: 5px 0;
+}
+
+.status-indicator small {
+    display: block;
+    margin-top: 5px;
+    font-size: 0.85em;
+    color: #666;
+    font-weight: normal;
+}
+
 @media (max-width: 600px) {
     .container {
         padding: 20px;
